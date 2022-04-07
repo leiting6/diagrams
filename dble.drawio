@@ -1,9 +1,45 @@
-<mxfile host="app.diagrams.net" modified="2022-04-07T06:51:40.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="B6y8NNHC6SKm4WG2IzFf" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-07T09:07:11.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="lHq2pVQglQYr1fCLo_T4" version="17.4.0" type="github">
   <diagram id="j-rCefn72ytLqk8BoCXE" name="Page-1">
     <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BMvWIDHhbsveti_zvsIt-1" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="431" y="530" width="590" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BMvWIDHhbsveti_zvsIt-3" value="node 2&lt;br&gt;newlaw_02&lt;br&gt;分片2" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="640" y="496" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMvWIDHhbsveti_zvsIt-4" value="node 3&lt;br&gt;newlaw_03&lt;br&gt;分片3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="785" y="499" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMvWIDHhbsveti_zvsIt-5" value="node n&lt;br&gt;newlaw_n&lt;br&gt;分片n" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="923" y="499" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMvWIDHhbsveti_zvsIt-6" value="node 1&lt;br&gt;newlaw_01&lt;br&gt;分片1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="479" y="501" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMvWIDHhbsveti_zvsIt-7" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="530" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BMvWIDHhbsveti_zvsIt-8" value="node 0&lt;br&gt;newlaw" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="180" y="501" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BMvWIDHhbsveti_zvsIt-9" value="case_id:&lt;br&gt;1-10,000,000" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="580" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BMvWIDHhbsveti_zvsIt-10" value="case_id:&lt;br&gt;10,000,001-20,000,000&lt;br&gt;50,000,001-60,000,000" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="559" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BMvWIDHhbsveti_zvsIt-11" value="case_id:&lt;br&gt;20,000,001-30,000,000&lt;br&gt;60,000,001-70,000,000" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="556" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BMvWIDHhbsveti_zvsIt-12" value="case_id:&lt;br&gt;30,000,001-40,000,000&lt;br&gt;70,000,001-80,000,000" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="560" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BMvWIDHhbsveti_zvsIt-13" value="case_id:&lt;br&gt;40,000,001-50,000,000&lt;br&gt;80,000,001-90,000,000" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="967" y="557" width="140" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

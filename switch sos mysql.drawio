@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T06:38:24.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="UEFbekoDAqmANb-odj6N" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T06:42:21.734Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="zvIyP9_JU-uA3ZT7W_Gk" version="20.0.3" type="github">
   <diagram id="j-rCefn72ytLqk8BoCXE" name="Page-1">
     <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -92,12 +92,6 @@
         </mxCell>
         <mxCell id="zrNowhDMcgSoIe2xHNOb-26" value="Backup node 2.21" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Database_for_MySQL_servers.svg;" vertex="1" parent="1">
           <mxGeometry x="306" y="680" width="44.84" height="59" as="geometry" />
-        </mxCell>
-        <mxCell id="zrNowhDMcgSoIe2xHNOb-31" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=10;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="500" y="530" as="sourcePoint" />
-            <mxPoint x="660" y="530" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="zrNowhDMcgSoIe2xHNOb-32" value="delay 24h sync" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=10;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" target="zrNowhDMcgSoIe2xHNOb-26">
           <mxGeometry width="160" relative="1" as="geometry">

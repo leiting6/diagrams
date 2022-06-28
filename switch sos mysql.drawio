@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T05:42:30.798Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="IvImIXNLvwdONWnA-Xe0" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T05:56:31.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="jemeLVjEe-CEQ2vFZRUd" version="20.0.3" type="github">
   <diagram id="j-rCefn72ytLqk8BoCXE" name="Page-1">
     <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -23,12 +23,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="412" as="sourcePoint" />
             <mxPoint x="200" y="493" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="BMvWIDHhbsveti_zvsIt-23" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;dashed=1;dashPattern=1 1;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="879.5" y="412" as="sourcePoint" />
-            <mxPoint x="879.5" y="493" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BMvWIDHhbsveti_zvsIt-24" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" parent="1" vertex="1">
@@ -61,7 +55,7 @@
         <mxCell id="crrwPuvogulhCAbJLKEx-6" value="M node 2.19" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Database_for_MySQL_servers.svg;" parent="1" vertex="1">
           <mxGeometry x="140.16" y="530" width="44.84" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="zrNowhDMcgSoIe2xHNOb-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;" edge="1" parent="1">
+        <mxCell id="zrNowhDMcgSoIe2xHNOb-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="577" y="260" as="sourcePoint" />
             <mxPoint x="577" y="181" as="targetPoint" />

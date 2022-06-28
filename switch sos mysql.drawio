@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T06:23:06.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1bNQ5PQmsiRjP_ArW9oI" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T06:28:16.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="R_A07Q8uq2GkK6a0D7-D" version="20.0.3" type="github">
   <diagram id="j-rCefn72ytLqk8BoCXE" name="Page-1">
     <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -25,16 +25,13 @@
         <mxCell id="Rm1kZXsYe9PU0bUZ6z79-1" value="newlaw&lt;br&gt;history" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="311" y="550" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Rm1kZXsYe9PU0bUZ6z79-14" value="2.21" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="185" y="760" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="crrwPuvogulhCAbJLKEx-3" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.roles;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="506" y="266" width="42" height="50" as="geometry" />
         </mxCell>
         <mxCell id="crrwPuvogulhCAbJLKEx-5" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.roles;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="598" y="266" width="42" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="crrwPuvogulhCAbJLKEx-6" value="M node 2.19" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Database_for_MySQL_servers.svg;" parent="1" vertex="1">
+        <mxCell id="crrwPuvogulhCAbJLKEx-6" value="S node 2.20" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Database_for_MySQL_servers.svg;" parent="1" vertex="1">
           <mxGeometry x="261.15999999999997" y="530" width="44.84" height="59" as="geometry" />
         </mxCell>
         <mxCell id="zrNowhDMcgSoIe2xHNOb-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=2;" edge="1" parent="1">
@@ -43,8 +40,8 @@
             <mxPoint x="577" y="181" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zrNowhDMcgSoIe2xHNOb-3" value="S node 2.20" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Database_for_MySQL_servers.svg;" vertex="1" parent="1">
-          <mxGeometry x="361" y="531" width="44.84" height="59" as="geometry" />
+        <mxCell id="zrNowhDMcgSoIe2xHNOb-3" value="M node 2.19" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Database_for_MySQL_servers.svg;" vertex="1" parent="1">
+          <mxGeometry x="361" y="530" width="44.84" height="59" as="geometry" />
         </mxCell>
         <mxCell id="zrNowhDMcgSoIe2xHNOb-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -80,7 +77,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="zrNowhDMcgSoIe2xHNOb-21" value="SOS node 2.22" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Database_for_MySQL_servers.svg;" vertex="1" parent="1">
-          <mxGeometry x="820" y="530" width="44.84" height="59" as="geometry" />
+          <mxGeometry x="820" y="529" width="44.84" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="zrNowhDMcgSoIe2xHNOb-23" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;fontSize=12;strokeColor=#000000;strokeWidth=2;entryX=-0.009;entryY=0.576;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="zrNowhDMcgSoIe2xHNOb-21">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="410" y="564.5" as="sourcePoint" />
+            <mxPoint x="570" y="564.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zrNowhDMcgSoIe2xHNOb-24" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="680" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zrNowhDMcgSoIe2xHNOb-26" value="Backup node 2.22" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Database_for_MySQL_servers.svg;" vertex="1" parent="1">
+          <mxGeometry x="306" y="680" width="44.84" height="59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

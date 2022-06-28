@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T06:32:55.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="kxlZp6XwGDbQd2EMOKuN" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T06:34:22.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="FJw7wHPFaYpefWA78pI8" version="20.0.3" type="github">
   <diagram id="j-rCefn72ytLqk8BoCXE" name="Page-1">
     <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -96,10 +96,13 @@
         <mxCell id="zrNowhDMcgSoIe2xHNOb-26" value="Backup node 2.21" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Azure_Database_for_MySQL_servers.svg;" vertex="1" parent="1">
           <mxGeometry x="306" y="680" width="44.84" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="zrNowhDMcgSoIe2xHNOb-27" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=2;exitX=0.5;exitY=-0.058;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.467;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zrNowhDMcgSoIe2xHNOb-26" target="BMvWIDHhbsveti_zvsIt-7">
+        <mxCell id="zrNowhDMcgSoIe2xHNOb-27" value="delay 24h sync&amp;nbsp;" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;strokeWidth=2;exitX=0.5;exitY=-0.058;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.467;entryY=1.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="zrNowhDMcgSoIe2xHNOb-26" target="BMvWIDHhbsveti_zvsIt-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="311.0000000000001" y="655.22" as="sourcePoint" />
             <mxPoint x="330" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="328" y="630" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>

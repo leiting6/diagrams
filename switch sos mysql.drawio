@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-28T06:54:19.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KyKab7xR1dGJ4QHBXQ7P" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-29T01:57:40.419Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="EVMlNhiVjex9FUlPLWAt" version="20.0.3" type="github">
   <diagram id="j-rCefn72ytLqk8BoCXE" name="Page-1">
     <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -93,8 +93,11 @@
             <mxPoint x="328.4200000000001" y="633.171" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pTFKpkrgRoZmQ1wzGyU8-1" value="Application" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Intune_App_Protection.svg;" vertex="1" parent="1">
+        <mxCell id="pTFKpkrgRoZmQ1wzGyU8-1" value="Application" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Intune_App_Protection.svg;" parent="1" vertex="1">
           <mxGeometry x="550" y="82" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6jve6JABwFWP_FCwsNxe-1" value="newlaw&lt;br&gt;history" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="880" y="516" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

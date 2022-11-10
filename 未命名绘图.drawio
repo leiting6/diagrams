@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T05:29:43.964Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="42UxNY_0d74A6mwV-Gg5" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T05:31:09.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="O1GFKv63ay3-iRDEfWky" version="20.5.3" type="github">
   <diagram id="buMmeLtLIJXkD8YVZocl" name="第 1 页">
     <mxGraphModel dx="2096" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KRtDhDDg2JMQuLb8srXX-32" value="BCP-DYX Virtual Data Center" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="KRtDhDDg2JMQuLb8srXX-32" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;BCP-DYX Virtual Data Center" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="69" y="232.25" width="551" height="113.5" as="geometry" />
         </mxCell>
         <mxCell id="KRtDhDDg2JMQuLb8srXX-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -33,11 +33,8 @@
         <mxCell id="KRtDhDDg2JMQuLb8srXX-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="71" y="592" width="180" height="131" as="geometry" />
         </mxCell>
-        <mxCell id="KRtDhDDg2JMQuLb8srXX-4" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.web_server" parent="1" vertex="1">
-          <mxGeometry x="156" y="259" width="38.76" height="51" as="geometry" />
-        </mxCell>
         <mxCell id="KRtDhDDg2JMQuLb8srXX-7" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_generic" parent="1" vertex="1">
-          <mxGeometry x="129" y="250" width="25.9" height="35" as="geometry" />
+          <mxGeometry x="185.57999999999998" y="259" width="25.9" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KRtDhDDg2JMQuLb8srXX-9" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Search.svg;" parent="1" vertex="1">
           <mxGeometry x="486" y="605" width="20" height="20" as="geometry" />
@@ -153,6 +150,9 @@
         </mxCell>
         <mxCell id="KZbCiKlJ8lRUBFkAWs-l-61" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.not_allowed;fillColor=#EA1C24;rotation=-210;" vertex="1" parent="1">
           <mxGeometry x="-67.12" y="393" width="24.25" height="24.25" as="geometry" />
+        </mxCell>
+        <mxCell id="KZbCiKlJ8lRUBFkAWs-l-64" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.web_server" vertex="1" parent="1">
+          <mxGeometry x="217" y="259" width="38.76" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

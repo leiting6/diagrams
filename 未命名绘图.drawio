@@ -1,29 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T03:23:16.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="8s14J_xHOkZOeyavr4gG" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T03:27:55.118Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2RwpyMD3h13G25PzWpL2" version="20.5.3" type="github">
   <diagram id="buMmeLtLIJXkD8YVZocl" name="第 1 页">
     <mxGraphModel dx="1269" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KRtDhDDg2JMQuLb8srXX-32" value="BCP-DYX Virtual Data Center" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="59" y="236.5" width="710" height="105" as="geometry" />
+          <mxGeometry x="69" y="232.25" width="551" height="113.5" as="geometry" />
         </mxCell>
         <mxCell id="KRtDhDDg2JMQuLb8srXX-2" value="Production-TKO Data Center" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="59" y="574.5" width="710" height="205" as="geometry" />
+          <mxGeometry x="59" y="579.5" width="561" height="155.5" as="geometry" />
         </mxCell>
         <mxCell id="KRtDhDDg2JMQuLb8srXX-25" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="506" y="594" width="220" height="160" as="geometry" />
+          <mxGeometry x="440" y="590" width="164" height="128" as="geometry" />
         </mxCell>
         <mxCell id="KRtDhDDg2JMQuLb8srXX-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="100" y="599" width="220" height="160" as="geometry" />
+          <mxGeometry x="71" y="592" width="180" height="131" as="geometry" />
         </mxCell>
         <mxCell id="KRtDhDDg2JMQuLb8srXX-4" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.web_server" parent="1" vertex="1">
-          <mxGeometry x="240" y="259" width="45.6" height="60" as="geometry" />
+          <mxGeometry x="156" y="259" width="38.76" height="51" as="geometry" />
         </mxCell>
         <mxCell id="KRtDhDDg2JMQuLb8srXX-6" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_server" parent="1" vertex="1">
           <mxGeometry x="81" y="829" width="38" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KRtDhDDg2JMQuLb8srXX-7" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_generic" parent="1" vertex="1">
-          <mxGeometry x="210.05" y="259" width="25.9" height="35" as="geometry" />
+          <mxGeometry x="129" y="250" width="25.9" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KRtDhDDg2JMQuLb8srXX-8" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_server;direction=south;" parent="1" vertex="1">
           <mxGeometry x="43" y="865" width="50" height="38" as="geometry" />
@@ -31,26 +31,14 @@
         <mxCell id="KRtDhDDg2JMQuLb8srXX-9" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Search.svg;" parent="1" vertex="1">
           <mxGeometry x="570" y="619" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KRtDhDDg2JMQuLb8srXX-11" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic" parent="1" vertex="1">
-          <mxGeometry x="580" y="664" width="24" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="KRtDhDDg2JMQuLb8srXX-12" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic" parent="1" vertex="1">
-          <mxGeometry x="555" y="649" width="24" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="KRtDhDDg2JMQuLb8srXX-13" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic" parent="1" vertex="1">
-          <mxGeometry x="530" y="629" width="24" height="50" as="geometry" />
+          <mxGeometry x="460" y="613.5" width="19.68" height="41" as="geometry" />
         </mxCell>
         <mxCell id="KRtDhDDg2JMQuLb8srXX-14" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.database_server" parent="1" vertex="1">
           <mxGeometry x="129" y="819" width="38" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KRtDhDDg2JMQuLb8srXX-15" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Managed_Instances.svg;" parent="1" vertex="1">
-          <mxGeometry x="156" y="629" width="38" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="KRtDhDDg2JMQuLb8srXX-16" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Managed_Instances.svg;" parent="1" vertex="1">
-          <mxGeometry x="217" y="679" width="38" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="KRtDhDDg2JMQuLb8srXX-17" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Managed_Instances.svg;" parent="1" vertex="1">
-          <mxGeometry x="187" y="649" width="38" height="50" as="geometry" />
+          <mxGeometry x="123.74000000000001" y="625" width="31.16" height="41" as="geometry" />
         </mxCell>
         <mxCell id="KRtDhDDg2JMQuLb8srXX-19" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.not_allowed;fillColor=#EA1C24;" parent="1" vertex="1">
           <mxGeometry x="80" y="429" width="31" height="31" as="geometry" />
@@ -87,8 +75,8 @@
         </mxCell>
         <mxCell id="KZbCiKlJ8lRUBFkAWs-l-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.62;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="236.4000000000001" y="599" as="sourcePoint" />
-            <mxPoint x="237" y="339" as="targetPoint" />
+            <mxPoint x="151.4000000000001" y="592" as="sourcePoint" />
+            <mxPoint x="152" y="343" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KZbCiKlJ8lRUBFkAWs-l-14" value="Internal trunnal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KZbCiKlJ8lRUBFkAWs-l-5">
@@ -115,6 +103,27 @@
         </mxCell>
         <mxCell id="KZbCiKlJ8lRUBFkAWs-l-11" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Functions.svg;" vertex="1" parent="1">
           <mxGeometry x="574.13" y="539" width="21.74" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KZbCiKlJ8lRUBFkAWs-l-20" value="DNS Area" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="410" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KZbCiKlJ8lRUBFkAWs-l-21" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.dns_server;" vertex="1" parent="1">
+          <mxGeometry x="850" y="420" width="56.5" height="68.32" as="geometry" />
+        </mxCell>
+        <mxCell id="KZbCiKlJ8lRUBFkAWs-l-22" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.dns_server;" vertex="1" parent="1">
+          <mxGeometry x="880" y="450" width="56.5" height="68.32" as="geometry" />
+        </mxCell>
+        <mxCell id="KZbCiKlJ8lRUBFkAWs-l-23" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="453.32" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="KZbCiKlJ8lRUBFkAWs-l-24" value="DNS Area" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="410.82" width="320" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="KZbCiKlJ8lRUBFkAWs-l-25" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Managed_Instances.svg;" vertex="1" parent="1">
+          <mxGeometry x="97.84" y="608" width="31.16" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="KZbCiKlJ8lRUBFkAWs-l-26" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/SQL_Managed_Instances.svg;" vertex="1" parent="1">
+          <mxGeometry x="148.42000000000002" y="645" width="31.16" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

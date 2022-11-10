@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T03:30:00.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="SVa-5CeLQjMOCMm1EWOg" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T03:31:12.948Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="nKLyaehp-7F0QwVxvUD8" version="20.5.3" type="github">
   <diagram id="buMmeLtLIJXkD8YVZocl" name="第 1 页">
     <mxGraphModel dx="1269" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,10 +56,10 @@
           <mxGeometry x="318" y="60" width="50" height="48.5" as="geometry" />
         </mxCell>
         <mxCell id="KRtDhDDg2JMQuLb8srXX-43" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Functions.svg;" parent="1" vertex="1">
-          <mxGeometry x="225" y="539" width="21.74" height="20" as="geometry" />
+          <mxGeometry x="141" y="539" width="21.74" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KRtDhDDg2JMQuLb8srXX-22" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Functions.svg;" parent="1" vertex="1">
-          <mxGeometry x="227" y="373" width="21.74" height="20" as="geometry" />
+          <mxGeometry x="141" y="373" width="21.74" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KZbCiKlJ8lRUBFkAWs-l-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.62;exitY=0.125;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -87,22 +87,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KZbCiKlJ8lRUBFkAWs-l-10" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Functions.svg;" vertex="1" parent="1">
-          <mxGeometry x="572.26" y="374" width="21.74" height="20" as="geometry" />
+          <mxGeometry x="504" y="373" width="21.74" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KZbCiKlJ8lRUBFkAWs-l-11" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Functions.svg;" vertex="1" parent="1">
-          <mxGeometry x="574.13" y="539" width="21.74" height="20" as="geometry" />
+          <mxGeometry x="505.26" y="539" width="21.74" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KZbCiKlJ8lRUBFkAWs-l-20" value="DNS Area" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="410" width="320" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="KZbCiKlJ8lRUBFkAWs-l-21" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.dns_server;" vertex="1" parent="1">
-          <mxGeometry x="850" y="420" width="56.5" height="68.32" as="geometry" />
+          <mxGeometry x="640" y="419" width="270" height="120" as="geometry" />
         </mxCell>
         <mxCell id="KZbCiKlJ8lRUBFkAWs-l-22" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.dns_server;" vertex="1" parent="1">
-          <mxGeometry x="880" y="450" width="56.5" height="68.32" as="geometry" />
+          <mxGeometry x="670" y="429" width="42.18" height="51" as="geometry" />
         </mxCell>
         <mxCell id="KZbCiKlJ8lRUBFkAWs-l-23" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="453.32" width="35" height="35" as="geometry" />
+          <mxGeometry x="827" y="460" width="35" height="35" as="geometry" />
         </mxCell>
         <mxCell id="KZbCiKlJ8lRUBFkAWs-l-24" value="DNS Area" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1190" y="410.82" width="320" height="120" as="geometry" />
@@ -130,6 +127,9 @@
         </mxCell>
         <mxCell id="KZbCiKlJ8lRUBFkAWs-l-32" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Search.svg;" vertex="1" parent="1">
           <mxGeometry x="540" y="607" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KZbCiKlJ8lRUBFkAWs-l-33" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.dns_server;" vertex="1" parent="1">
+          <mxGeometry x="700" y="453.32" width="42.18" height="51" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

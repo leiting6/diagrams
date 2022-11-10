@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T08:52:17.689Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Q_C0k_5fE_bFKYtex1c8" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T09:43:45.453Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="mjUQYZpBWJLvTZafrRZz" version="20.5.3" type="github">
   <diagram id="buMmeLtLIJXkD8YVZocl" name="DR Plan v1.0">
-    <mxGraphModel dx="1811" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2314" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,11 +93,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KZbCiKlJ8lRUBFkAWs-l-62" value="DNS points to SOS IP&lt;br&gt;when prod is not available" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="KZbCiKlJ8lRUBFkAWs-l-42" vertex="1" connectable="0">
-          <mxGeometry x="-0.3404" y="62" relative="1" as="geometry">
-            <mxPoint x="-108" y="-51" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KZbCiKlJ8lRUBFkAWs-l-44" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.not_allowed;fillColor=#EA1C24;rotation=-210;" parent="1" vertex="1">
           <mxGeometry x="34" y="302" width="24.25" height="24.25" as="geometry" />
         </mxCell>
@@ -137,28 +132,28 @@
         <mxCell id="KZbCiKlJ8lRUBFkAWs-l-64" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.web_server" parent="1" vertex="1">
           <mxGeometry x="216" y="259" width="38.76" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="42UuwCL6AxzE4AiGLso--2" value="&lt;span style=&quot;background-color: rgb(0, 0, 153);&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Web Services&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000099;" vertex="1" parent="1">
+        <mxCell id="42UuwCL6AxzE4AiGLso--2" value="&lt;span style=&quot;background-color: rgb(0, 0, 153);&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Web Services&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000099;" parent="1" vertex="1">
           <mxGeometry x="270" y="243" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="42UuwCL6AxzE4AiGLso--3" value="&lt;font color=&quot;#ffffff&quot;&gt;SQL Services&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000099;" vertex="1" parent="1">
+        <mxCell id="42UuwCL6AxzE4AiGLso--3" value="&lt;font color=&quot;#ffffff&quot;&gt;SQL Services&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000099;" parent="1" vertex="1">
           <mxGeometry x="270" y="266.5" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="42UuwCL6AxzE4AiGLso--4" value="&lt;font color=&quot;#ffffff&quot;&gt;Data Backup&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000099;" vertex="1" parent="1">
+        <mxCell id="42UuwCL6AxzE4AiGLso--4" value="&lt;font color=&quot;#ffffff&quot;&gt;Data Backup&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000099;" parent="1" vertex="1">
           <mxGeometry x="270" y="290" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="42UuwCL6AxzE4AiGLso--6" value="&lt;b&gt;SQL Service HA&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="42UuwCL6AxzE4AiGLso--6" value="&lt;b&gt;SQL Service HA&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="95" y="686" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="42UuwCL6AxzE4AiGLso--7" value="&lt;b&gt;Search Enginee&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+        <mxCell id="42UuwCL6AxzE4AiGLso--7" value="&lt;b&gt;Search Enginee&lt;/b&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="467" y="686" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="42UuwCL6AxzE4AiGLso--11" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;fillColor=#00FF00;width=10;startSize=9.71;entryX=0.821;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KRtDhDDg2JMQuLb8srXX-25" target="KRtDhDDg2JMQuLb8srXX-32">
+        <mxCell id="42UuwCL6AxzE4AiGLso--11" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;fontColor=#FFFFFF;fillColor=#00FF00;width=10;startSize=9.71;entryX=0.821;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="KRtDhDDg2JMQuLb8srXX-25" target="KRtDhDDg2JMQuLb8srXX-32" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="414" y="445.75" as="sourcePoint" />
             <mxPoint x="514" y="345.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="42UuwCL6AxzE4AiGLso--12" value="&lt;font color=&quot;#000000&quot;&gt;Cloud connect to&amp;nbsp;prod solr enginee via &lt;br&gt;internal tunnel and transfer backup data of search data&lt;/font&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" vertex="1" connectable="0" parent="42UuwCL6AxzE4AiGLso--11">
+        <mxCell id="42UuwCL6AxzE4AiGLso--12" value="&lt;font color=&quot;#000000&quot;&gt;Cloud connect to&amp;nbsp;prod solr enginee via &lt;br&gt;internal tunnel and transfer backup data of search data&lt;/font&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontColor=#FFFFFF;" parent="42UuwCL6AxzE4AiGLso--11" vertex="1" connectable="0">
           <mxGeometry x="0.1315" y="-1" relative="1" as="geometry">
             <mxPoint x="-109" y="-12" as="offset" />
           </mxGeometry>

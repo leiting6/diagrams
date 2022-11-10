@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T08:26:36.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="TkB-eTgs3Fo5nq-9cex-" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T08:29:52.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="nVzw4lH2TRLEHsv2yA0e" version="20.5.3" type="github">
   <diagram id="buMmeLtLIJXkD8YVZocl" name="DR Plan v1.0">
     <mxGraphModel dx="1811" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,9 +93,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KZbCiKlJ8lRUBFkAWs-l-62" value="DNS points to SOS IP&lt;br&gt;when prod is not available" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KZbCiKlJ8lRUBFkAWs-l-42" vertex="1" connectable="0">
+        <mxCell id="KZbCiKlJ8lRUBFkAWs-l-62" value="DNS points to SOS IP&lt;br&gt;when prod is not available" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];" parent="KZbCiKlJ8lRUBFkAWs-l-42" vertex="1" connectable="0">
           <mxGeometry x="-0.3404" y="62" relative="1" as="geometry">
-            <mxPoint x="-36" y="-51" as="offset" />
+            <mxPoint x="-108" y="-51" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KZbCiKlJ8lRUBFkAWs-l-44" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.not_allowed;fillColor=#EA1C24;rotation=-210;" parent="1" vertex="1">

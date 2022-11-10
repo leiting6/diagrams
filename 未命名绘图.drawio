@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T08:03:53.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="3vBO0kXwF-xsa4qoXMrC" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T08:16:52.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="k8yIVFEShwNDKYofXygX" version="20.5.3" type="github">
   <diagram id="buMmeLtLIJXkD8YVZocl" name="DR Plan v1.0">
-    <mxGraphModel dx="2096" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1811" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -162,9 +162,6 @@
         </mxCell>
         <mxCell id="42UuwCL6AxzE4AiGLso--4" value="Data Backup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="290" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="42UuwCL6AxzE4AiGLso--5" value="Text" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="275" y="415" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

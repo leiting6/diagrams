@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-10T03:19:06.816Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="dKVcD15xwghzEunCH1QM" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-10T03:23:16.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="8s14J_xHOkZOeyavr4gG" version="20.5.3" type="github">
   <diagram id="buMmeLtLIJXkD8YVZocl" name="第 1 页">
     <mxGraphModel dx="1269" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -53,7 +53,7 @@
           <mxGeometry x="187" y="649" width="38" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KRtDhDDg2JMQuLb8srXX-19" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.not_allowed;fillColor=#EA1C24;" parent="1" vertex="1">
-          <mxGeometry x="80" y="429" width="50" height="50" as="geometry" />
+          <mxGeometry x="80" y="429" width="31" height="31" as="geometry" />
         </mxCell>
         <mxCell id="KRtDhDDg2JMQuLb8srXX-20" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.oms.log_search" parent="1" vertex="1">
           <mxGeometry x="400" y="70" width="50" height="50" as="geometry" />
@@ -82,12 +82,6 @@
         <mxCell id="KRtDhDDg2JMQuLb8srXX-43" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Functions.svg;" parent="1" vertex="1">
           <mxGeometry x="225" y="539" width="21.74" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KZbCiKlJ8lRUBFkAWs-l-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="318" y="539" as="sourcePoint" />
-            <mxPoint x="368" y="489" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="KRtDhDDg2JMQuLb8srXX-22" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Functions.svg;" parent="1" vertex="1">
           <mxGeometry x="227" y="373" width="21.74" height="20" as="geometry" />
         </mxCell>
@@ -97,6 +91,11 @@
             <mxPoint x="237" y="339" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="KZbCiKlJ8lRUBFkAWs-l-14" value="Internal trunnal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KZbCiKlJ8lRUBFkAWs-l-5">
+          <mxGeometry x="0.2237" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KZbCiKlJ8lRUBFkAWs-l-7" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/user_accounts.svg;" vertex="1" parent="1">
           <mxGeometry x="350" y="90" width="50" height="48.5" as="geometry" />
         </mxCell>
@@ -104,6 +103,11 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="584.5000000000001" y="593" as="sourcePoint" />
             <mxPoint x="583.69" y="341.44499999999994" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KZbCiKlJ8lRUBFkAWs-l-13" value="Internal trunnal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KZbCiKlJ8lRUBFkAWs-l-8">
+          <mxGeometry x="0.1687" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KZbCiKlJ8lRUBFkAWs-l-10" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Functions.svg;" vertex="1" parent="1">
